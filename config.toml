@@ -1,6 +1,6 @@
-baseURL = "https://ota2000.github.io"
-title   = "Hello Friend NG"
-languageCode = "en-us"
+baseURL = "https://y2000.dev"
+title   = "y2000.dev"
+languageCode = "ja-jp"
 theme = "hello-friend-ng"
 
 PygmentsCodeFences = true
