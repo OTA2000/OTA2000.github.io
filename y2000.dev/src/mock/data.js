@@ -79,7 +79,7 @@ export const footerData = {
       id: nanoid(),
       name: 'hot-tub',
       url: 'https://sauna-ikitai.com/saunners/7812',
-      isSolid: true,
+      faType: 's',
     },
     {
       id: nanoid(),
