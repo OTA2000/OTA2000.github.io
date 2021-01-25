@@ -77,7 +77,7 @@ export const footerData = {
     },
     {
       id: nanoid(),
-      name: 'hot-tub',
+      name: 'burn',
       url: 'https://sauna-ikitai.com/saunners/7812',
     },
     {
