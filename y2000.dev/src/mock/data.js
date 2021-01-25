@@ -17,50 +17,50 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'profile.jpg',
+  img: 'profile.png',
   paragraphOne: '',
   paragraphTwo: '',
   paragraphThree: '',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: '', // 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
-export const projectsData = [
-  {
-    id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
-  },
-];
+// export const projectsData = [
+//   {
+//     id: nanoid(),
+//     img: 'project.jpg',
+//     title: '',
+//     info: '',
+//     info2: '',
+//     url: '',
+//     repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+//   },
+//   {
+//     id: nanoid(),
+//     img: 'project.jpg',
+//     title: '',
+//     info: '',
+//     info2: '',
+//     url: '',
+//     repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+//   },
+//   {
+//     id: nanoid(),
+//     img: 'project.jpg',
+//     title: '',
+//     info: '',
+//     info2: '',
+//     url: '',
+//     repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+//   },
+// ];
 
 // CONTACT DATA
-export const contactData = {
-  cta: '',
-  btn: '',
-  email: '',
-};
+// export const contactData = {
+//   cta: '',
+//   btn: '',
+//   email: '',
+// };
 
 // FOOTER DATA
 export const footerData = {
@@ -77,7 +77,7 @@ export const footerData = {
     },
     {
       id: nanoid(),
-      name: 'burn',
+      name: 'campground',
       url: 'https://sauna-ikitai.com/saunners/7812',
     },
     {
