@@ -22,7 +22,7 @@ const Footer = () => {
         <div className="social-links">
           {networks &&
             networks.map((network) => {
-              const { id, name, url, faType } = network;
+              const { id, name, url } = network;
               return (
                 <a
                   key={id}
@@ -31,7 +31,7 @@ const Footer = () => {
                   target="_blank"
                   aria-label={name}
                 >
-                  <i className={`fa${faType || ''} fa-${name || 'refresh'} fa-inverse`} />
+                  <i className={`fa fa-${name || 'refresh'} fa-inverse`} />
                 </a>
               );
             })}

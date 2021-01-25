@@ -77,9 +77,8 @@ export const footerData = {
     },
     {
       id: nanoid(),
-      name: 'hot-tub',
+      name: 'hourglass',
       url: 'https://sauna-ikitai.com/saunners/7812',
-      faType: 's',
     },
     {
       id: nanoid(),
