@@ -67,23 +67,38 @@ export const footerData = {
   networks: [
     {
       id: nanoid(),
+      name: 'github',
+      url: 'https://github.com/OTA2000',
+    },
+    {
+      id: nanoid(),
       name: 'twitter',
       url: 'https://twitter.com/yshr1200',
     },
     {
       id: nanoid(),
-      name: 'codepen',
-      url: '',
+      name: 'hot-tab',
+      url: 'https://sauna-ikitai.com/saunners/7812',
+    },
+    {
+      id: nanoid(),
+      name: 'file',
+      url: 'https://note.com/y2000',
+    },
+    {
+      id: nanoid(),
+      name: 'edit',
+      url: 'https://zenn.dev/y2000',
+    },
+    {
+      id: nanoid(),
+      name: 'lastfm',
+      url: 'https://www.last.fm/user/OTA2000',
     },
     {
       id: nanoid(),
       name: 'linkedin',
       url: 'https://www.linkedin.com/in/y2000/',
-    },
-    {
-      id: nanoid(),
-      name: 'github',
-      url: 'https://github.com/OTA2000',
     },
   ],
 };
