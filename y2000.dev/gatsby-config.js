@@ -22,8 +22,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Simplefolio`,
-        short_name: `Simplefolio`,
+        name: `y2000.dev`,
+        short_name: `y2000`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#02aab0`,
