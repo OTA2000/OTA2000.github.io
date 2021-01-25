@@ -38,7 +38,7 @@ const Footer = () => {
         </div>
         <hr />
         <p className="footer__text">
-          © {new Date().getFullYear()} -
+          © {new Date().getFullYear()} -{' '}
           <a href="https://github.com/OTA2000" target="_blank" rel="noopener noreferrer">
             y2000
           </a>
