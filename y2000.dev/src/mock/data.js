@@ -77,8 +77,9 @@ export const footerData = {
     },
     {
       id: nanoid(),
-      name: 'campground',
+      name: 'hot-tub',
       url: 'https://sauna-ikitai.com/saunners/7812',
+      isSolid: true,
     },
     {
       id: nanoid(),
