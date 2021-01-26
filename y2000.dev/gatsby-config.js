@@ -31,5 +31,11 @@ module.exports = {
         icon: 'src/images/favicon.png',
       },
     },
+    {
+      resolve: `gatsby-plugin-google-tagmanager`,
+      options: {
+        id: `GTM-MC9X4CS`,
+      },
+    },
   ],
 };
